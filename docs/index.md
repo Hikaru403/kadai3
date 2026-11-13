@@ -1,3 +1,20 @@
+<style> 
+body { 
+background: lightcyan; 
+width: 800px; 
+margin: auto; 
+} 
+h1 { 
+color: maroon; 
+text-align: center; 
+}  
+p { 
+color: gray; 
+border: 1px solid gray; 
+padding: 10px; 
+} 
+</style>
+
 電ボ（でんぼ）は、NHK Eテレのアニメ『おじゃる丸』に登場する“電書ボタル”のキャラクターです。
 
 ## 電ボとは 
